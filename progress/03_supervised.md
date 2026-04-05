@@ -87,10 +87,9 @@ Primary metric is **AUC-ROC** — it measures discrimination ability across all 
 
 | Model | Val Accuracy | Val AUC | CV AUC (5-fold) |
 |-------|-------------|---------|-----------------|
-| Decision Tree (baseline) | — | — | — |
-| **Random Forest** ✓ | — | — | — |
+| Decision Tree (baseline) | 0.906  | 0.960 | 0.959 |
+| **Random Forest** ✓ | 0.981 | 0.999 | 0.999 |
 
-> Exact values are printed to the console when `03_supervised.py` is run. Fill in the table above with the printed output.
 
 ---
 
