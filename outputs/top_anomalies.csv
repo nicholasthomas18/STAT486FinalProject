@@ -1,0 +1,26 @@
+year,month,carrier,carrier_name,airport,airport_name,delay_rate,cancel_rate,mean_delay_mins,anomaly_score
+2020,4,G4,Allegiant Air,BIL,"Billings, MT: Billings Logan International",0.07142857142857142,0.6428571428571429,3.142857142857143,1.0
+2020,4,G4,Allegiant Air,PVD,"Providence, RI: Theodore Francis Green State",0.1111111111111111,0.4444444444444444,1.6666666666666667,0.9996042315568947
+2020,1,G4,Allegiant Air,OGS,"Ogdensburg, NY: Ogdensburg International",0.1111111111111111,0.4444444444444444,9.0,0.9978063988810371
+2020,4,G4,Allegiant Air,SCK,"Stockton, CA: Stockton Metropolitan",0.0625,0.78125,1.03125,0.9965952596414237
+2015,1,US,US Airways Inc.,TUS,"Tucson, AZ: Tucson International",1.0,0.0,86.0,0.9778030694495476
+2020,8,G4,Allegiant Air,MRY,"Monterey, CA: Monterey Regional",0.4,0.1,52.9,0.9764539716817452
+2021,10,OO,SkyWest Airlines Inc.,INL,"International Falls, MN: Falls International Einarson Field",0.20754716981132076,0.1320754716981132,85.66037735849056,0.9658048994796433
+2014,1,MQ,American Eagle Airlines Inc.,ELP,"El Paso, TX: El Paso International",0.4,0.35,56.4,0.9553582613251926
+2018,9,YV,Mesa Airlines Inc.,BDL,"Hartford, CT: Bradley International",0.2727272727272727,0.0,45.27272727272727,0.9549864104270129
+2021,5,OO,SkyWest Airlines Inc.,RIW,"Riverton/Lander, WY: Riverton Regional",0.07894736842105263,0.0,2.6052631578947367,0.9352068637095362
+2022,6,G4,Allegiant Air,RDU,"Raleigh/Durham, NC: Raleigh-Durham International",0.4444444444444444,0.1111111111111111,55.44444444444444,0.9294229847762863
+2020,3,9E,Endeavor Air Inc.,RAP,"Rapid City, SD: Rapid City Regional",0.3333333333333333,0.3333333333333333,246.33333333333334,0.929120705942971
+2020,5,G4,Allegiant Air,RNO,"Reno, NV: Reno/Tahoe International",0.022222222222222223,0.7333333333333333,0.5111111111111111,0.9271683487633658
+2023,2,MQ,Envoy Air,MSO,"Missoula, MT: Missoula Montana",0.5,0.5,46.0,0.9242740716061077
+2020,5,G4,Allegiant Air,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",0.034482758620689655,0.5517241379310345,6.551724137931035,0.915604203138997
+2014,1,MQ,American Eagle Airlines Inc.,CHO,"Charlottesville, VA: Charlottesville Albemarle",0.46153846153846156,0.46153846153846156,60.76923076923077,0.9142820510395705
+2017,7,AS,Alaska Airlines Inc.,OTZ,"Kotzebue, AK: Ralph Wien Memorial",0.03278688524590164,0.06557377049180328,1.6885245901639345,0.9128946070723005
+2021,12,MQ,Envoy Air,LGB,"Long Beach, CA: Long Beach Airport",1.0,0.0,712.0,0.9091046976503375
+2020,12,AS,Alaska Airlines Inc.,CDB,"Cold Bay, AK: Cold Bay Airport",0.5,0.05555555555555555,22.5,0.9088023829209213
+2022,7,G4,Allegiant Air,GTF,"Great Falls, MT: Great Falls International",0.625,0.0,74.375,0.9067962722796442
+2023,2,OO,SkyWest Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",1.0,0.0,146.0,0.9064107164942292
+2023,8,YX,Republic Airline,ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",1.0,0.0,158.0,0.9064107164942292
+2019,9,YV,Mesa Airlines Inc.,HHH,"Hilton Head, SC: Hilton Head Airport",0.07142857142857142,0.35714285714285715,58.142857142857146,0.8976439724725224
+2020,10,AS,Alaska Airlines Inc.,CDB,"Cold Bay, AK: Cold Bay Airport",0.5,0.0,13.5,0.8953145843011499
+2021,2,G4,Allegiant Air,SAT,"San Antonio, TX: San Antonio International",0.16666666666666666,0.3333333333333333,51.5,0.8945711498019377
