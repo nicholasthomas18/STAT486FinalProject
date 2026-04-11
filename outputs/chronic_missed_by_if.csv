@@ -1,0 +1,16 @@
+carrier_name,airport_name,n_months,pct_high_delay,if_anomaly_rate
+ExpressJet Airlines Inc.,"New York, NY: John F. Kennedy International",15,1.0,0.0
+PSA Airlines Inc.,"Akron, OH: Akron-Canton Regional",24,1.0,0.0
+Envoy Air,"New York, NY: LaGuardia",52,0.9807692307692307,0.09615384615384616
+American Eagle Airlines Inc.,"New York, NY: LaGuardia",52,0.9807692307692307,0.09615384615384616
+Allegiant Air,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",24,0.9583333333333334,0.0
+Mesa Airlines Inc.,"Houston, TX: William P Hobby",24,0.9583333333333334,0.0
+JetBlue Airways,"New York, NY: LaGuardia",77,0.948051948051948,0.0
+Frontier Airlines Inc.,"Sacramento, CA: Sacramento International",17,0.9411764705882353,0.0
+Mesa Airlines Inc.,"New York, NY: LaGuardia",29,0.9310344827586207,0.06896551724137931
+American Eagle Airlines Inc.,"Denver, CO: Denver International",14,0.9285714285714286,0.0
+Endeavor Air Inc.,"Newark, NJ: Newark Liberty International",28,0.9285714285714286,0.17857142857142858
+Envoy Air,"Denver, CO: Denver International",14,0.9285714285714286,0.0
+Frontier Airlines Inc.,"San Francisco, CA: San Francisco International",77,0.922077922077922,0.025974025974025976
+American Airlines Inc.,"Newark, NJ: Newark Liberty International",77,0.922077922077922,0.0
+JetBlue Airways,"Newark, NJ: Newark Liberty International",77,0.922077922077922,0.0

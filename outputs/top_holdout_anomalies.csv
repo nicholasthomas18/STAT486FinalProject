@@ -1,0 +1,21 @@
+year,month,carrier,carrier_name,airport,airport_name,delay_rate,cancel_rate,mean_delay_mins,anomaly_score
+2020,4,G4,Allegiant Air,BIL,"Billings, MT: Billings Logan International",0.07142857142857142,0.6428571428571429,44.0,1.1272464138035692
+2020,4,G4,Allegiant Air,SCK,"Stockton, CA: Stockton Metropolitan",0.0625,0.78125,16.5,1.1200805601959591
+2020,5,G4,Allegiant Air,GRI,"Grand Island, NE: Central Nebraska Regional",0.05555555555555555,0.2222222222222222,164.0,1.0492186250037547
+2021,5,OO,SkyWest Airlines Inc.,RIW,"Riverton/Lander, WY: Riverton Regional",0.07894736842105263,0.0,33.0,1.0299635850021462
+2020,5,G4,Allegiant Air,MCI,"Kansas City, MO: Kansas City International",0.06451612903225806,0.2903225806451613,29.5,1.0104810032508211
+2020,4,G4,Allegiant Air,PSM,"Portsmouth, NH: Portsmouth International at Pease",0.02564102564102564,0.5897435897435898,27.0,1.0067226603812558
+2020,4,UA,United Air Lines Inc.,FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",0.004878048780487805,0.5560975609756098,33.0,1.005012533540817
+2020,4,OH,PSA Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",0.005263157894736842,0.6473684210526316,33.0,1.0038170063201188
+2021,1,G4,Allegiant Air,GSO,"Greensboro/High Point, NC: Piedmont Triad International",0.07692307692307693,0.3076923076923077,80.0,1.002339791853075
+2020,5,G4,Allegiant Air,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",0.08333333333333333,0.25,35.0,0.9974203973332431
+2020,5,G4,Allegiant Air,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",0.034482758620689655,0.5517241379310345,190.0,0.9930510998965937
+2021,9,MQ,Envoy Air,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",0.06666666666666667,0.23333333333333334,30.5,0.9915698752513268
+2020,4,DL,Delta Air Lines Inc.,GSO,"Greensboro/High Point, NC: Piedmont Triad International",0.010752688172043012,0.43010752688172044,29.0,0.991491397384856
+2020,4,OO,SkyWest Airlines Inc.,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",0.03333333333333333,0.36666666666666664,23.0,0.9911737960333515
+2022,3,B6,JetBlue Airways,HDN,"Hayden, CO: Yampa Valley",0.0625,0.0,41.0,0.9870791512032469
+2021,4,AS,Alaska Airlines Inc.,CDB,"Cold Bay, AK: Cold Bay Airport",0.0625,0.0,23.0,0.9866878271304764
+2021,12,DL,Delta Air Lines Inc.,EGE,"Eagle, CO: Eagle County Regional",0.21428571428571427,0.21428571428571427,71.33333333333333,0.9863269075166826
+2021,1,OO,SkyWest Airlines Inc.,OTH,"North Bend/Coos Bay, OR: Southwest Oregon Regional",0.0625,0.0,19.0,0.9835489026560672
+2020,4,WN,Southwest Airlines Co.,GRR,"Grand Rapids, MI: Gerald R. Ford International",0.005405405405405406,0.3891891891891892,43.0,0.9818154021742779
+2020,4,G4,Allegiant Air,TVC,"Traverse City, MI: Cherry Capital",0.03333333333333333,0.7333333333333333,56.0,0.9817961996511386
