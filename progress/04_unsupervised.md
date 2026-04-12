@@ -12,13 +12,6 @@
 
 The supervised model predicts whether a flight will be delayed. A separate question is: *among flights that are already delayed, do they share recognisable operational patterns?* This is a structure-discovery problem with no ground-truth labels, making unsupervised clustering the right tool.
 
-### Why K-Means (Not Isolation Forest)
-
-An earlier iteration of this analysis used Isolation Forest on aggregated carrier-airport-month data. That approach was replaced because:
-
-- Aggregated rows lose the flight-level operational signal (recovery in air, taxi-out time, etc.)
-- Clustering on cause codes directly (a naive approach) is circular — you discover what you put in
-- K-Means on operational observables asks a genuinely non-circular question: can we find operationally coherent groups, and do those groups then align with known delay causes?
 
 ### Unit of Analysis
 
